@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="pingTextView" type="id" />
+    <item name="batteryTextView" type="id" />
+    <item name="fpsTextView" type="id" />
+    <item name="startButton" type="id" />
+</resources>
