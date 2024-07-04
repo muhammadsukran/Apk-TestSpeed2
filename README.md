@@ -26,8 +26,4 @@ Setelah menginstal dan membuka aplikasi:
 
 ## Kontribusi
 
-Kontribusi dalam bentuk pull request untuk meningkatkan atau menambah fitur baru sangat dipersilakan. Pastikan untuk membaca panduan kontribusi terlebih dahulu sebelum mengirimkan perubahan.
-
-## Lisensi
-
-Ditulis oleh [Nama Anda]. Dikembangkan di bawah lisensi [Nama Lisensi]. Lihat `LICENSE` untuk detail lebih lanjut.
+Ditulis oleh MUHAMMAD SUKRAN.
