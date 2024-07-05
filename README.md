@@ -10,7 +10,7 @@ Test Speed 2 adalah aplikasi Android yang dirancang untuk mengoptimalkan kinerja
 
 ## Instalasi
 
-1. Unduh file APK dari [release terbaru](https://drive.google.com/file/d/1lIBnp-iikjHg_H29Sk5dqEYAVHT6MIVJ/view?usp=sharing) V 1.2.0.
+1. Unduh file APK dari release [ Update ]terbaru([https://drive.google.com/file/d/1lIBnp-iikjHg_H29Sk5dqEYAVHT6MIVJ/view?usp=sharing](https://drive.google.com/file/d/1vvkNuDnOAyPZ847zUFY7zteGgUsyv0dO/view?usp=sharing)) Versi 1.3.0.
 2. Instal APK pada perangkat Android Anda.
 3. Buka aplikasi "Test Speed 2" dan berikan izin yang diminta.
 
