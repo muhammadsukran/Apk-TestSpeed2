@@ -26,4 +26,5 @@ Setelah menginstal dan membuka aplikasi:
 
 ## Kontribusi
 
-Ditulis oleh MUHAMMAD SUKRAN.
+Ditulis oleh **MUHAMMAD SUKRAN**.
+
